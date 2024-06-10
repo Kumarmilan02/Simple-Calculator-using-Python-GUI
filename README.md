@@ -24,8 +24,7 @@ To run the calculator application locally on your machine, follow these steps:
    ```bash
    git clone https://github.com/Kumarmilan02/dynamic-calculator.git
 
-   
-In this template, the license section now includes a link to `LICENSE.md` for details about the MIT License. You'll want to create a separate file named `LICENSE.md` in your repository and paste the MIT License text into that file. Here's a simple example of what the `LICENSE.md` file might look like:
+
 
 
 
